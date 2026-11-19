@@ -6,7 +6,7 @@ Licence Multimédia & Internet, Semestre 1, LaNEM, année universitaire 2026-202
 ## Auteurs
 
 - Yoann HOUENOU
-- [Nom du binôme]
+- AWEHA osley
 
 ## Le client
 
